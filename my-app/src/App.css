@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+
+}
+
+select.ui.selection.dropdown {
+  margin: 5px;
+}
+
+.ui.container {
+  margin: 40px;
+ 
+}
+
+input.field {
+  margin:5px;
+}
+
+h1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: green;
+  text-shadow: 5px 5px 5px 5px green;
+  
+}
+
+form.ui.form {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 0%;
+  width: 20%;
+  box-shadow: 5px 5px 5px 5px green;
+  background-color: black;
+  color: green;
+  
+}
+
+.ui.button{
+box-shadow: 5px 5px 5px 5px;
+width: 20%;
+text-align: center;
+margin: auto;
+
+}
